@@ -1,0 +1,19 @@
+.logo-img{
+    width: 10%;
+}
+.child_component{
+    margin-left: 20%;
+}
+.content{
+    margin-top: 5rem;
+}
+.loading{
+    width: 50%;
+    height: 50%;
+    text-align: center;
+}
+.isError{
+    width: 50%;
+    height: 50%;
+    text-align: center;
+}
